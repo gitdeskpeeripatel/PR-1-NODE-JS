@@ -26,17 +26,19 @@
 
 ## Screenshot
 1.HOME
-<img width="1347" height="717" alt="HOME" src="https://github.com/user-attachments/assets/097e16d1-72c8-4d5d-a6f2-9b7608173fe5" />
+<img width="1347" height="717" alt="HOME" src="https://github.com/user-attachments/assets/78edb4e1-c8d9-42a0-bac9-54408aca46e0" />
 
 
 2.ABOUT
-<img width="1349" height="717" alt="about" src="https://github.com/user-attachments/assets/35edabd3-56d0-4d51-82c6-8c01d037b922" />
+<img width="1349" height="717" alt="about" src="https://github.com/user-attachments/assets/7acc4870-de0d-4d15-8e67-6403b21820b6" />
+
 
 
 3.CONTACT
-<img width="1348" height="719" alt="contact" src="https://github.com/user-attachments/assets/95d35f48-372e-4196-9a19-f6dde2d0c727" />
+<img width="1348" height="719" alt="contact" src="https://github.com/user-attachments/assets/9847ed15-dce3-49cb-9c27-3d85294ae2f1" />
 
 
 4.404 (ERROR)
-<img width="1363" height="721" alt="error" src="https://github.com/user-attachments/assets/c9f438a4-e49e-495b-ab80-f4d2f288206c" />
+<img width="1363" height="721" alt="error" src="https://github.com/user-attachments/assets/03309fba-6d80-4ba9-92db-b13fc1eaf8b5" />
+
 
